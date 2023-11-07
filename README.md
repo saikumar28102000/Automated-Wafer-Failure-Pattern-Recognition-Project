@@ -67,7 +67,3 @@ The positive outcomes of this study highlight the untapped potential for machine
 To access the dataset used in this project, please visit [Kaggle: WM-811K Wafer Map](https://www.kaggle.com/datasets/qingyi/wm811k-wafer-map/data).
 
 
-## Visualization
-
-![Wafer Map Example]([https://raw.githubusercontent.com/username/repo/branch/path/to/wafer_map.png](https://github.com/saikumar28102000/Automated-Wafer-Failure-Pattern-Recognition-Project/blob/main/Images/Wafers.png)https://github.com/saikumar28102000/Automated-Wafer-Failure-Pattern-Recognition-Project/blob/main/Images/Wafers.png)
-
