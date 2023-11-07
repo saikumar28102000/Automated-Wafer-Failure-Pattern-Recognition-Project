@@ -39,6 +39,7 @@ Visual examination of wafer maps revealed diverse failure patterns, prompting th
 
 Following the guidelines from the Microsoft Azure Machine Learning Algorithm Cheat Sheet, One-VS-One multi-class SVMs were chosen. This choice was backed by literature reviews and the algorithm's reputation for effectiveness in similar classification tasks.
 
+
 ## Step 5: Improve Results
 
 - **Algorithm Tuning**: Searching for the optimal model parameters can significantly enhance model performance.
