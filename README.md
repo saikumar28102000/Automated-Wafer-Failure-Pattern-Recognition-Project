@@ -19,6 +19,10 @@ My project centered on automating the recognition of failure patterns using the 
 ### Dataset Summary
 I converted the dataset from MATLAB (.mat) files to Python pickle (.pkl) files to simplify manipulation and analysis.
 
+### Dataset Visualizations
+<p align="center">
+  <img src="[https://i.redd.it/jcfumtrdhue61.jpg](https://github.com/saikumar28102000/Automated-Wafer-Failure-Pattern-Recognition-Project/blob/main/Images/Wafers.png)" width="800" height="400" />
+</p>
 ### Data Preprocessing
 - I discarded data that lacked failure type labels.
 - I introduced 'WaferMapDim' as a new feature to standardize the varying dimensions of wafers.
