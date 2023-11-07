@@ -21,7 +21,7 @@ I converted the dataset from MATLAB (.mat) files to Python pickle (.pkl) files t
 
 ### Dataset Visualizations
 <p align="center">
-  <img src="[https://i.redd.it/jcfumtrdhue61.jpg](https://github.com/saikumar28102000/Automated-Wafer-Failure-Pattern-Recognition-Project/blob/main/Images/Wafers.png)" width="800" height="400" />
+  <img src="https://i.redd.it/jcfumtrdhue61.jpg](https://github.com/saikumar28102000/Automated-Wafer-Failure-Pattern-Recognition-Project/blob/main/Images/Wafers.png" width="800" height="400" />
 </p>
 ### Data Preprocessing
 - I discarded data that lacked failure type labels.
